@@ -1,0 +1,15 @@
+This is the websites tutorial page for learners.
+
+This page contains a list / grid of tiles
+
+Each has a title, difficulty level, set of language/framework tags and a header image
+
+These tiles are all links to dedicated pages for each tutorial
+
+There are dropdowns to sort by tags and a search bar that looks through titles
+
+There are a mix of videos, articles and practical challenges
+
+Practical challenges have links to github repos for users to upload and compare their work via pull requests
+
+These github repos can be cloned to download templates for the challenges
