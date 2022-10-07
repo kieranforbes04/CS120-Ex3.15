@@ -1,0 +1,1 @@
+Added pages folder to directory tree.
