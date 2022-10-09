@@ -5,7 +5,7 @@ This website is a tutorial/blogging website for new developers and will have pag
 
 Home page - Eilidh
 Tutorial page - Josh
-Contact page - 
+Contact page - Mollie
 Blog page - 
 
 Each of us will complete a page each - then update that page later.
