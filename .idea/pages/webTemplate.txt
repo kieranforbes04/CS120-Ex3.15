@@ -1,4 +1,5 @@
 Header - LearnToDev
 Banner - Here is a company logo
+Navigation Bar - Links to the webiste pages
 Description of page content -
-Footer - Contact details of the compan
+Footer - Contact details of the company (i.e address, phone number, social medias etc.)
