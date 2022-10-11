@@ -1,5 +1,5 @@
-Header - LearnToDev
+Header - LearnToDev, which is the name of the site
 Banner - Here is a company logo
-Navigation Bar - Links to the webiste pages
+Navigation Bar - Links to the website pages (Home, Tutorial, Blogs, Contact)
 Description of page content -
-Footer - Contact details of the company (i.e address, phone number, social medias etc.)
+Footer - Copyright details of the company and the website creator
