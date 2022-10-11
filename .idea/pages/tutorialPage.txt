@@ -3,10 +3,10 @@ Banner - Here is a company logo
 Navigation Bar - Links to the website pages (Home, Tutorial, Blogs, Contact)
 
 Description of page content -	This is the websites tutorial page for learners.This page contains a list / 
-grid of tiles- each has a title, difficulty level, set of language/framework tags 
-and a header image. These tiles are all links to dedicated pages for each tutorial. There are dropdowns to 
-sort by tags and a search bar that looks through titlesThere are a mix of videos, articles and practical 
-challenges which have links to github repos for users to upload and compare their work via pull requests.
-These github repos can be cloned to download templates for the challenges
+				grid of tiles- each has a title, difficulty level, set of language/framework tags 
+				and a header image. These tiles are all links to dedicated pages for each tutorial. There are dropdowns to 
+				sort by tags and a search bar that looks through titlesThere are a mix of videos, articles and practical 
+				challenges which have links to github repos for users to upload and compare their work via pull requests.
+				These github repos can be cloned to download templates for the challenges
 
-Footer - Copyright details of the company and the website creator
+Footer - Copyright details of the company and the website creator. Also provides daily updates.

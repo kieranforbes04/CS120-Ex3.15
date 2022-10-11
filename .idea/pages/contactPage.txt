@@ -1,4 +1,9 @@
-Header – How to contact LearntoDev team?
-Navigation Bar - Links to the different contact routes that can be used to get in touch with company, EG.Email address or phone number.
-Description of page content – This page contains the different forms of contact that can be used in order to get in contact with the company and gain help from them.
-Footer – Links to the company’s social media to follow along on potential new features and running of the company. Also provides daily updates.
+Header - LearnToDev, which is the name of the site
+Banner - Here is a company logo
+Navigation Bar - Links to the website pages (Home, Tutorial, Blogs, Contact)
+		 Links to the different contact routes that can be used to get in touch with company, EG.Email address or phone number.
+
+Description of page content – This page contains the different forms of contact that can be used in order to get 
+			      in contact with the company and gain help from them.
+
+Footer - Copyright details of the company and the website creator. Also provides daily updates.

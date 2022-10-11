@@ -2,4 +2,4 @@ Header - LearnToDev, which is the name of the site
 Banner - Here is a company logo
 Navigation Bar - Links to the website pages (Home, Tutorial, Blogs, Contact)
 Description of page content -
-Footer - Copyright details of the company and the website creator
+Footer - Copyright details of the company and the website creator. Also provides daily updates.

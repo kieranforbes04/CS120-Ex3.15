@@ -1,6 +1,7 @@
-Header - LearnToDev
+Header - LearnToDev, which is the name of the site
 Banner - Here is a company logo
 Navigation Bar - Links to the website pages (Home, Tutorial, Blogs, Contact)
+
 Description of page content - On this page, there will be a thorough explanation as to what the website's purpose
                               is and what services are provided. It will mention how we've established to site
                               to help new software developers learn skills that they may need through the use of
@@ -9,4 +10,6 @@ Description of page content - On this page, there will be a thorough explanation
                               Nearer the bottom of the page, just before the footer will be some user stories on how the
                               site has helped them to gain the knowledge they need for their roles, alongside an image
                               of them which will have alt text to help visitors to the site who may be hard of hearing.
-Footer - Copyright details of the company and the website creator
+
+
+Footer - Copyright details of the company and the website creator. Also provides daily updates.
